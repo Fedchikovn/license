@@ -1,4 +1,4 @@
-const expirationDate = new Date('2024-06-01'); // Установи дату окончания лицензии
+const expirationDate = new Date('2024-06-01'); 
 
 function checkLicense() {
     const currentDate = new Date();
