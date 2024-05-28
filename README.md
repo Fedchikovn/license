@@ -1,2 +1,0 @@
-# license
-license for Website
